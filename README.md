@@ -31,7 +31,7 @@ Installation
 In your Gemfile:
 
 ```ruby
-gem "solidus_gateway"
+gem "solidus_gateway", github: 'emboldagency/solidus_gateway'
 ```
 
 Then run from the command line:
